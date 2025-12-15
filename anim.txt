@@ -1,0 +1,4 @@
+.content-hidden {
+opacity: 0;
+visibility: hidden;
+transition: opacity 0.5s ease;}
